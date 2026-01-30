@@ -49,6 +49,7 @@ Pada halaman ini user dapat pinjam buku. terdapat fitur hapus daftar peminjmanan
 Pada form peminjaman user mengisi nama diri dan memilih daftar buku yang dipinjam dan pilih tanggal peminjaman sesuai waktu yang dipinjam.
 
 ## Laporan
+##### ![Gambar 1](laporan.png).
 Halaman ini memuat tabel riwayat peminjaman buku yang dilakukan oleh anggota perpustakaan.
 
 ## Catatan: untuk fitur pengembalian hanya admin yang bisa menggunakannya. dan untuk peminjaman admin harus menambahkan data anggota yang ingin meminjam terlebih dahulu. 
